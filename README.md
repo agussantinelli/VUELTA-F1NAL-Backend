@@ -102,5 +102,5 @@
 <hr />
 
 <div align="center">
-  <p><em>VUELTA F1NAL – Donde la historia se encuentra con la predicción.</em></p>
+  <p><em>VUELTA F1NAL – Donde la historia se encuentra con la futuro.</em></p>
 </div>
